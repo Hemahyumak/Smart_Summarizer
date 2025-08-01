@@ -1,0 +1,4 @@
+    metric  Abstractive  Extractive
+   ROUGE-1     0.457553    0.200073
+   ROUGE-2     0.216277    0.028505
+ROUGE-Lsum     0.363480    0.126493
